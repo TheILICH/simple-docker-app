@@ -2,7 +2,7 @@
 
 A small Go web server, containerized with Docker.
 
-## Build & Run
+## Build
 
 ```bash
 docker build -t simple .

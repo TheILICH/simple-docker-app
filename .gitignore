@@ -1,0 +1,10 @@
+simple
+*.exe
+*.exelog
+
+.env
+
+# IDEs & OS
+.idea/
+.vscode/
+.DS_Store
